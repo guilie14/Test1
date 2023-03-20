@@ -1,0 +1,8 @@
+C:\Insight Files\CS\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Insight Files\CS\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Insight Files\CS\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Insight Files\CS\ConsoleApp7\obj\Debug\NgThanhBinh.csproj.AssemblyReference.cache
+C:\Insight Files\CS\ConsoleApp7\obj\Debug\NgThanhBinh.csproj.SuggestedBindingRedirects.cache
+C:\Insight Files\CS\ConsoleApp7\obj\Debug\NgThanhBinh.csproj.CoreCompileInputs.cache
+C:\Insight Files\CS\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Insight Files\CS\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
