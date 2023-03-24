@@ -1,0 +1,23 @@
+Tạo class student có các property sau: (2p)                                                  2
+Id, Name, Gender, Age, Date of birth, Class, Mark1, Mark 2, Mark 3 và 1                        
+method:
+- mark_AVG(): trả về mark trung bình của student. (2p)                                       1
+Tạo class TestStudent thực hiện các nhiệm vụ sau: (using Collection ) (10p) - tạo            
+method để nhập thông tin của 1 student (2p)						      1																							
+- Tạo method để tìm kiếm 1 student bằng name. (2p)		
+- Tạo method để chỉnh sửa thông tin của student. (2p)
+- Tạo method để xoá student bằng id. (2p)
+- Tạo method để sắp xếp các student theo thứ tự tăng dần của mark trung bình. (2p)
+Khi chạy chương trình, người dùng có thể chọn chức năng như hình dưới: (3p)
+1. Input information (input details for a student).
+2. Sorting student asccending by average mark.
+3. Display all the student.
+4. Search Student by Name
+5. Delete Student by student ID.
+6. Exit program.
+Note :
+Tất cả các trường thông tin cần được validate như
+sau (8p)
+- Tất cả các field không rỗng (empty string).
+- Mark là số
+- Mark là số [0 and 100].
